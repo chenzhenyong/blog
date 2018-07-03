@@ -19,7 +19,7 @@ public class UserService {
     private UserMapper userMapper;
 
 
-    public UserEntity getUserByUserId(String id){
+    public UserEntity getUserByUserId(Long id){
         try {
             return userMapper.getOne(id);
         } catch (Exception e) {

@@ -21,6 +21,11 @@ public class UserController {
     @Autowired
     private UserService userService;
 
+    @GetMapping("")
+    public String get(@PathVariable("id") Long id) {
+        return userService.getUserByUserId(id).toString();
+    }
+
     @GetMapping("/all")
     public String all() {
         return userService.getAllUsers().toString();

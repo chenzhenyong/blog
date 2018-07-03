@@ -15,7 +15,7 @@ import java.util.List;
 public interface UserMapper {
 
     @Select("SELECT * FROM user WHERE id = #{userId}")
-    UserEntity getOne(String userId);
+    UserEntity getOne(Long userId);
 
     @Select("SELECT * FROM user")
     List<UserEntity> getAll();
