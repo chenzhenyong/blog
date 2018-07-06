@@ -1,7 +1,7 @@
-package com.czy.druiddemo.service;
+package com.ithub.blog.service;
 
-import com.czy.druiddemo.entity.UserEntity;
-import com.czy.druiddemo.mapper.UserMapper;
+import com.ithub.blog.entity.UserEntity;
+import com.ithub.blog.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

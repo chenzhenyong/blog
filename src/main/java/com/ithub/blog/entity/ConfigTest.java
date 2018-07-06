@@ -1,4 +1,4 @@
-package com.czy.druiddemo.entity;
+package com.ithub.blog.entity;
 
 import org.springframework.stereotype.Component;
 

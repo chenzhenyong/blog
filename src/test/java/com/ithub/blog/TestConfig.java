@@ -1,6 +1,6 @@
-package com.czy.druiddemo;
+package com.ithub.blog;
 
-import com.czy.druiddemo.entity.ConfigTest;
+import com.ithub.blog.entity.ConfigTest;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

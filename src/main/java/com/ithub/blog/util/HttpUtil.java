@@ -1,4 +1,4 @@
-package com.czy.druiddemo.util;
+package com.ithub.blog.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

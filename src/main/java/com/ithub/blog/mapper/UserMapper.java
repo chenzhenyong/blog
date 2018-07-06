@@ -1,6 +1,6 @@
-package com.czy.druiddemo.mapper;
+package com.ithub.blog.mapper;
 
-import com.czy.druiddemo.entity.UserEntity;
+import com.ithub.blog.entity.UserEntity;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

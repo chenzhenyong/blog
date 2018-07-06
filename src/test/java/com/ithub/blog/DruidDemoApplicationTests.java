@@ -1,6 +1,6 @@
-package com.czy.druiddemo;
+package com.ithub.blog;
 
-import com.czy.druiddemo.controller.UserController;
+import com.ithub.blog.controller.UserController;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
