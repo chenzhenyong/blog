@@ -33,9 +33,7 @@ public class UserController {
 
     @RequestMapping("/test")
     public String test(HttpServletRequest request) {
-
-
-        return null;
+        return "test!!!";
     }
 
 }
