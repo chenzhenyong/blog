@@ -1,4 +1,4 @@
-package com.cn21.account.gateway.business.resourcepackage.controller;
+package com.ithub.blog.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
