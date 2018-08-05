@@ -6,7 +6,6 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-//@ImportResource(value={"classpath:application.properties"})
 public class DruidDemoApplication extends SpringBootServletInitializer {
 
 	/**
